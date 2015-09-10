@@ -1,3 +1,4 @@
-# campus coliving code approved to be shared
-#    most code are early versions due to IP
-
+# campus coliving 
+- approved by DF for github
+- edited for demo purposes
+- early versions due to IP
