@@ -55,7 +55,7 @@ class ImportCSVdata(object):
 
 # Prepping data from ops team
 userinput = []
-ImportCSVdata("elsie.csv", userinput)
+ImportCSVdata("housesamplemeasurements.csv", userinput)
 
 
 #list of just roomnames
