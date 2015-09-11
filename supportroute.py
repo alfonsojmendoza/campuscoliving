@@ -33,7 +33,7 @@ class ImportCSVdata(object):
 
 masterhouselist = []
 
-ImportCSVdata("filename.csv", masterhouselist)
+ImportCSVdata("housecoords.csv", masterhouselist)
 
 #in case CSV file structure changes, only have to change this 
 column_streetid = 0
