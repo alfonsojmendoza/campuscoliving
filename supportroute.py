@@ -39,7 +39,7 @@ ImportCSVdata("housecoords.csv", masterhouselist)
 column_streetid = 0
 
 # office coordinates
-startpoint = [37.782255, -122.410508]
+startpoint = [37.782, -122.410]
 
 # variables stated.  GUI using tkinter for early end-user version
 initialinput = ("AdressA", "AddressB", "AddressC", "AddressD", "AddressE")
