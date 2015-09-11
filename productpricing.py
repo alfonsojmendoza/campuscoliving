@@ -95,6 +95,5 @@ publishedprice = normalizedprice + membershipprice
 
 print ("\nRoom Name\t\tNormalized ($)\t\tPublished Price ($)")
 for x,y,z in zip(normalizedprice,roomnames,publishedprice):
-	#print ("\t%s	\t\t$  %s \t\t\t$  %s" %(y, x, z))
 	print ("\t{}\t\t\t$ {} \t\t\t$ {}".format(y,x,z))
 print ("\nSum of Calcuations:\t$ {} \t Monthly Rent:\t {}".format(normalizedprice.sum(axis = 0), house_rent))
